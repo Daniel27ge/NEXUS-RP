@@ -1,0 +1,10 @@
+--- NOVIDADES DA VERSÃO ---
+
+✅ Novo sistema de atualização obrigatória.
+✅ Melhorias na estabilidade da conexão.
+✅ Interface do painel otimizada.
+✅ Correção de bugs no login automático.
+
+⚠️ Esta atualização é necessária para continuar acessando os serviços do NEXUS-RP.
+
+Aproveite as novas funcionalidades!

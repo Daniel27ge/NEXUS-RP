@@ -1,10 +1,27 @@
---- NOVIDADES DA VERSÃO ---
+🚀 NEXUS-RPX — Atualização Beta v1.2.1
 
-✅ Novo sistema de atualização obrigatória.
-✅ Melhorias na estabilidade da conexão.
-✅ Interface do painel otimizada.
-✅ Correção de bugs no login automático.
+✨ Novidades desta versão
 
-⚠️ Esta atualização é necessária para continuar acessando os serviços do NEXUS-RP.
+✅ Novo sistema de download automático.
 
-Aproveite as novas funcionalidades!
+✅ Adicionados atalhos para os aplicativos:
+
+- 💬 Discord
+- ▶️ YouTube
+- 🌐 Google
+
+✅ Menu totalmente redesenhado, com uma interface mais moderna e rápida.
+
+✅ Corrigido o problema em que o aplicativo fechava sozinho.
+
+✅ Corrigido o lag ao abrir o menu, melhorando o desempenho.
+
+✅ Melhorada a compatibilidade com dispositivos Android 14, Android 15 e Android 16.
+
+📢 Informações importantes
+
+⚠️ O aplicativo continua em BETA v1.2.1.
+
+Estamos trabalhando constantemente para melhorar a estabilidade, corrigir erros e adicionar novas funcionalidades. Caso encontre algum problema, envie seu feedback para ajudar no desenvolvimento do NEXUS-RPX.
+
+🎉 Obrigado por utilizar o NEXUS-RPX!
